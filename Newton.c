@@ -51,3 +51,4 @@ while(fabs(fm)>ERR);
 printf("Newton dice: %f", m);
 return  2*x*x*x-4*x+1      ;
 }
+
