@@ -1,14 +1,14 @@
 %-----------------------------------------------------------------------
-% "Raw AA Library" is a C++/Matlab draft library, which may be useful  
-% for simple computations involving calculus subroutines, 
+% "Raw AA Library v.1.0" is a C/Matlab draft library, which may be   
+% useful for simple computations involving calculus subroutines, 
 % 1D heath transport (Finite Differences), 1D free surface flows (FD), 
 % 1D pollutant dispersion (FD), 0D and 1D climate models (FD).
-% Raw AA Library Copyright 2000,2003,2004,2008 Andrea Amicarelli
+% Raw AA Library v.1.0 Copyright 2000,2003,2004,2008 Andrea Amicarelli
 % email contact: Andrea.Amicarelli@gmail.com
 %-----------------------------------------------------------------------
-% This file is part of Raw AA Library. 
-% Raw AA Library is free software: you can redistribute it and/or modify
-% it under the terms of the GNU Lesser General Public License as 
+% This file is part of Raw AA Library v.1.0. 
+% Raw AA Library v.1.0 is free software: you can redistribute it and/or 
+% modify it under the terms of the GNU Lesser General Public License as 
 % published by the Free Software Foundation, either version 3 of the 
 % License, or (at your option) any later version.
 % This library is distributed in the hope that it will be useful,
